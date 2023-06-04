@@ -1,0 +1,10 @@
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\bin\Debug\mcj_supply.exe.config
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\bin\Debug\mcj_supply.exe
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\bin\Debug\mcj_supply.pdb
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.csproj.AssemblyReference.cache
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.Form1.resources
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.Properties.Resources.resources
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.csproj.GenerateResource.cache
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.csproj.CoreCompileInputs.cache
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.exe
+C:\Users\sabin\source\repos\mcj_supply\mcj_supply\obj\Debug\mcj_supply.pdb
