@@ -24,12 +24,11 @@ namespace mcj_supply
 
         public Form1() //constructor 
         {
-            InitializeComponent();
-            Console.WriteLine(txtFilesPath); //debugging purposes: 
+            InitializeComponent(); 
             InitializeFileWatcher();
             GetLatestTextFilePath();
         }
-        private void Form1_Load(object sender, EventArgs e) //dont know what this is: usually empty unless you want default values populated when the form window loads
+        private void Form1_Load(object sender, EventArgs e) // usually empty unless you want default values populated when the form window loads
         {
 
         }
